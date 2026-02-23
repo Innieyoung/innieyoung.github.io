@@ -4,7 +4,7 @@ cv:
   email: innieyoung@knu.ac.kr
   location: Daegu, Republic of Korea
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: A data science researcher building adaptive AI that learns from both data and human expertise to solve real-world industrial challenges
 
   social_networks:
     - network: Instagram
@@ -16,15 +16,15 @@ cv:
 
   address:
     street: #408-3, Joint Lecture Building 4, Kyungpook National University
-    city: Buk-gu
-    region: Daegu
+    city: Buk-gu, Daegu
+    region: South Korea
     postalCode: ""
     countryCode: ""
 
   sections:
     Education:
       - institution: Kyungpook National University
-        location: Daegu, Republic of Korea
+        location: Daegu, South Korea
         url: ""
         area: Data Science Convergence
         studyType: Ph. D. 
@@ -33,33 +33,33 @@ cv:
         score: ""
         courses: ""
         highlights:
-          - Description 1.
-          - Description 2.
+          - Manufacturing AI
+          - Anomaly Detection
+          - Semi-Supervised Learning
 
       - institution: Kyungpook National University
-        location: Daegu, Republic of Korea
+        location: Daegu, South Korea
         area: Data Science
         studyType: M.S. of Data Science
         start_date: 2022
         end_date: 2024
         highlights:
-          - Description 1.
-          - Description 2.
+          - Signal to Image Algorithms
+          - Human-Centric AI
 
       - institution: Kyungpook National University
-        location: Daegu, Republic of Korea
+        location: Daegu, South Korea
         area: Electroncis&Software Engineering
         studyType: B.S. in Electronics Engineering and Software Engineering (Minor)
         start_date: 2018
         end_date: 2022
-        highlights:
-          - Description 1.
-          - Description 2.
+        highlights:""
+      
 
     Experience:
       - company: SK Siltron
         position: Data Scientist
-        location: Gumi, Republic of Korea
+        location: Gumi, South Korea
         start_date: 2024.11
         end_date: 2025.02
         summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
@@ -69,7 +69,7 @@ cv:
 
       - company: Toss Bank
         position: Research Intern
-        location: Seoul, Republic of Korea
+        location: Seoul, South Korea
         start_date: 2025.06
         end_date: 2025.08
         highlights:
@@ -77,20 +77,19 @@ cv:
           - Description 2.
 
     Awards:
-      - title: Nobel Prize in Physics
+      - title: Best Paper Award - Artificial Intelligence Section
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+          - "Korean Institute of Information Scientists and Engineers"
+        date: 2023. 12
+        awarder: Korean Institute of Information Scientists and Engineers
+        summary: ""
 
-      - title: Max Planck Medal
+      - title: Award from the President of the National Information Society Agency
         authors:
           - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+        date: 2025. 09
+        awarder:  Ministry of Science and ICT
+        summary: ""
 
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
@@ -124,11 +123,17 @@ cv:
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
-      - name: German
+      - name: Korean
         summary: "Native speaker"
 
       - name: English
         summary: "Fluent"
+
+      - name: Chinese
+        summary: "Intermediate"
+
+      - name: Japanese
+        summary : "Intermediate"
 
     Interests:
       - name: Physics
