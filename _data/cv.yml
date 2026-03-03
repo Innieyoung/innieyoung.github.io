@@ -4,7 +4,7 @@ cv:
   email: innieyoung@knu.ac.kr
   location: Daegu, Republic of Korea
   image: ""
-  summary: A data science researcher building adaptive AI that learns from both data and human expertise to solve real-world industrial challenges
+  summary: An AI researcher driven to develop practical solutions that address complex problems in real production environments.
 
   social_networks:
     - network: Instagram
@@ -59,34 +59,33 @@ cv:
     Experience:
       - company: SK Siltron
         position: Data Scientist
-        location: Gumi, South Korea
+        location: Gumi, Korea
         start_date: 2024.11
         end_date: 2025.02
-        summary: ""
+        summary: Handled manufacturing process data and yield management at SK siltron, conducting research on tool-to-tool matching.
         highlights:
-          - Relativity
-          - Description 2.
+          - Developed an inline monitoring system for semiconductor manufacturing processes
+          - Built data-driven models for defect analysis and yield prediction.
 
       - company: Toss Bank
         position: Research Intern
-        location: Seoul, South Korea
+        location: Seoul, Korea
         start_date: 2025.06
         end_date: 2025.08
+        summary : Focusing on financial data workflow automation and logic implementation. 
         highlights:
-          - Description 1.
-          - Description 2.
+          - Built and maintained automated data workflows for financial operations.
+          - Transformed domain-specific financial logic into scalable and maintainable systems.
 
     Awards:
       - title: Best Paper Award - Artificial Intelligence Section
-        authors:
-          - "Korean Institute of Information Scientists and Engineers"
+        authors: ""
         date: 2023. 12
         awarder: Korean Institute of Information Scientists and Engineers
         summary: ""
 
       - title: Award from the President of the National Information Society Agency
-        authors:
-          - "German Physical Society"
+        authors: ""
         date: 2025. 09
         awarder:  Ministry of Science and ICT
         summary: ""
