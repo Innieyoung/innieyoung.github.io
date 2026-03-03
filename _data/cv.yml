@@ -46,6 +46,7 @@ cv:
         highlights:
           - Signal to Image Algorithms
           - Human-Centric AI
+          - AI in Healthcare 
 
       - institution: Kyungpook National University
         location: Daegu, South Korea
@@ -84,36 +85,72 @@ cv:
         awarder: Korean Institute of Information Scientists and Engineers
         summary: 
 
-      - title: Award from the President of the National Information Society Agency
+      - title: Award from the President of the National Information Society Agency 
         authors: 
         date: 2025. 09
         awarder:  Ministry of Science and ICT
-        summary: 
+        summary: K-Data Science Hackathon
 
+  
     Publications:
+      - title: Semiconductor Wafer Bin Map Defect Pattern Classification based on Transfer Learning Considering Data Class Imbalance
+        authors:
+          - Inyoung Park
+          - Jeeyoung Kim
+        publisher: Journal of the Korea Academia-Industrial Cooperation Society
+        releaseDate: 2024
+        url: ""
+        summary: ""
+    
       - title: Sleep Apnea Classification using Time-Series Data Image Transformation Algorithm
         authors:
-          - Inyoung Park, Young-Kyoon Suh and Jeeyoung Kim
-        publisher: Korean Software Congress(oral), Korean Institute of Information Scientists and Engineers
-        releaseDate: 2023. 12
-        url: 
-        summary: 
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+          - Inyoung Park
+          - Young-Kyoon Suh
+          - Jeeyoung Kim
+        publisher: Korea Software Congress, Korean Institute of Information Scientists and Engineers (Oral)
+        releaseDate: 2023-12
+        url: ""
+        summary: "Best Paper Award, Artificial Intelligence Section"
+    
+      - title: Impact of Filter Order on the Performance of Sleep Apnea Detection Deep Learning Models on ECG Signals
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+          - Inyoung Park
+          - Young-Kyoon Suh
+          - Jeeyoung Kim
+        publisher: Korea Computer Congress, Korean Institute of Information Scientists and Engineers (Oral)
+        releaseDate: 2024-06
+        url: ""
+        summary: ""
+    
+      - title: Cross-Attention Learning of R-Peak Feature Interactions on Scalograms for Sleep Apnea Detection
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Cheongha Lee
+          - Inyoung Park
+          - Jeeyoung Kim
+        publisher: Korean Database Conference, Korean Institute of Information Scientists and Engineers (Oral)
+        releaseDate: 2025-11
+        url: ""
+        summary: ""
+    
+      - title: Graph-Spectral Filtering and QI Adaptive-ATAR Based EEG Preprocessing for ADHD Classification
+        authors:
+          - Jikyoung Hong
+          - Inyoung Park
+          - Jeeyoung Kim
+        publisher: Korean Database Conference, Korean Institute of Information Scientists and Engineers (Oral)
+        releaseDate: 2025-11
+        url: ""
+        summary: ""
+    
+      - title: ECG-Based Sleep Apnea Detection Using Hybrid DLinear Model
+        authors:
+          - Lakshani Liyanage
+          - Inyoung Park
+          - Jeeyoung Kim
+        publisher: Korean Database Conference, Korean Institute of Information Scientists and Engineers (Oral)
+        releaseDate: 2025-11
+        url: ""
+        summary: ""
 
     Skills:
       - name: Physics
