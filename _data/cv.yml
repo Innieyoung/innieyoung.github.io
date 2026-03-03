@@ -123,16 +123,16 @@ cv:
 
     Languages:
       - name: Korean
-        summary: "Native speaker"
+        summary: Native speaker
 
       - name: English
-        summary: "Fluent"
+        summary: Fluent
 
       - name: Chinese
-        summary: "Intermediate"
+        summary: Intermediate
 
       - name: Japanese
-        summary : "Intermediate"
+        summary : Intermediate
 
     Interests:
       - name: Physics
