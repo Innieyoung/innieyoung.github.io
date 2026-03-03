@@ -99,8 +99,8 @@ cv:
           - Jeeyoung Kim
         publisher: Journal of the Korea Academia-Industrial Cooperation Society
         releaseDate: 2024
-        url: ""
-        summary: ""
+        url: 
+        summary: 
     
       - title: Sleep Apnea Classification using Time-Series Data Image Transformation Algorithm
         authors:
@@ -109,7 +109,7 @@ cv:
           - Jeeyoung Kim
         publisher: Korea Software Congress, Korean Institute of Information Scientists and Engineers (Oral)
         releaseDate: 2023-12
-        url: ""
+        url: 
         summary: "Best Paper Award, Artificial Intelligence Section"
     
       - title: Impact of Filter Order on the Performance of Sleep Apnea Detection Deep Learning Models on ECG Signals
@@ -119,8 +119,8 @@ cv:
           - Jeeyoung Kim
         publisher: Korea Computer Congress, Korean Institute of Information Scientists and Engineers (Oral)
         releaseDate: 2024-06
-        url: ""
-        summary: ""
+        url: 
+        summary: 
     
       - title: Cross-Attention Learning of R-Peak Feature Interactions on Scalograms for Sleep Apnea Detection
         authors:
@@ -129,8 +129,8 @@ cv:
           - Jeeyoung Kim
         publisher: Korean Database Conference, Korean Institute of Information Scientists and Engineers (Oral)
         releaseDate: 2025-11
-        url: ""
-        summary: ""
+        url: 
+        summary: 
     
       - title: Graph-Spectral Filtering and QI Adaptive-ATAR Based EEG Preprocessing for ADHD Classification
         authors:
@@ -139,8 +139,8 @@ cv:
           - Jeeyoung Kim
         publisher: Korean Database Conference, Korean Institute of Information Scientists and Engineers (Oral)
         releaseDate: 2025-11
-        url: ""
-        summary: ""
+        url: 
+        summary: 
     
       - title: ECG-Based Sleep Apnea Detection Using Hybrid DLinear Model
         authors:
@@ -149,8 +149,8 @@ cv:
           - Jeeyoung Kim
         publisher: Korean Database Conference, Korean Institute of Information Scientists and Engineers (Oral)
         releaseDate: 2025-11
-        url: ""
-        summary: ""
+        url: 
+        summary: 
 
     Skills:
       - name: Physics
