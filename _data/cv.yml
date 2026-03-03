@@ -3,7 +3,7 @@ cv:
   label: Ph.D. Student
   email: innieyoung@knu.ac.kr
   location: Daegu, Republic of Korea
-  image: ""
+  image: 
   summary: An AI researcher driven to develop practical solutions that address complex problems in real production environments.
 
   social_networks:
@@ -18,20 +18,20 @@ cv:
     street: #408-3, Joint Lecture Building 4, Kyungpook National University
     city: Buk-gu, Daegu
     region: South Korea
-    postalCode: ""
-    countryCode: ""
+    postalCode: 
+    countryCode: 
 
   sections:
     Education:
       - institution: Kyungpook National University
         location: Daegu, South Korea
-        url: ""
+        url: 
         area: Data Science Convergence
         studyType: Ph. D. Degree
         start_date: 2025
         end_date: 
-        score: ""
-        courses: ""
+        score: 
+        courses: 
         highlights:
           - Manufacturing AI
           - Anomaly Detection
@@ -53,7 +53,7 @@ cv:
         studyType: B.S. in Electronics Engineering and Software Engineering (Minor)
         start_date: 2018
         end_date: 2022
-        highlights:""
+        highlights:
       
 
     Experience:
@@ -79,16 +79,16 @@ cv:
 
     Awards:
       - title: Best Paper Award - Artificial Intelligence Section
-        authors: ""
+        authors: 
         date: 2023. 12
         awarder: Korean Institute of Information Scientists and Engineers
-        summary: ""
+        summary: 
 
       - title: Award from the President of the National Information Society Agency
-        authors: ""
+        authors: 
         date: 2025. 09
         awarder:  Ministry of Science and ICT
-        summary: ""
+        summary: 
 
     Publications:
       - title: Sleep Apnea Classification using Time-Series Data Image Transformation Algorithm
@@ -96,8 +96,8 @@ cv:
           - Inyoung Park, Young-Kyoon Suh and Jeeyoung Kim
         publisher: Korean Software Congress(oral), Korean Institute of Information Scientists and Engineers
         releaseDate: 2023. 12
-        url: ""
-        summary: ""
+        url: 
+        summary: 
 
       - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
         authors:
