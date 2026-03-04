@@ -27,7 +27,7 @@ latest_posts:
   limit: 3
 ---
 
-<div style="margin:28px 0 18px 0; max-width:720px;">
+<div style="margin:28px 0 18px 0; max-width:500px;">
   <img src="/assets/img/HITL.png" style="width:100%; height:auto; display:block; border-radius:10px; margin-bottom:18px;">
   <img src="/assets/img/wafer_kci.jpg" style="width:100%; height:auto; display:block; border-radius:10px; margin-bottom:18px;">
   <img src="/assets/img/MoL2_archi-2_cropped_page-0001.jpg" style="width:100%; height:auto; display:block; border-radius:10px;">
