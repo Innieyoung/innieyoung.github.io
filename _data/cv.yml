@@ -62,8 +62,8 @@ cv:
       - company: SK Siltron
         position: Data Scientist
         location: Gumi, Korea
-        start_date: "2024-11"
-        end_date: "2025-02"
+        start_date: "2024.11"
+        end_date: "2025.02"
         summary: "Handled manufacturing process data and yield management at SK Siltron, conducting research on tool-to-tool matching."
         highlights:
           - "Developed an inline monitoring system for semiconductor manufacturing processes."
@@ -72,8 +72,8 @@ cv:
       - company: Toss Bank
         position: Research Intern
         location: Seoul, Korea
-        start_date: "2025-06"
-        end_date: "2025-08"
+        start_date: "2025.06"
+        end_date: "2025.08"
         summary: "Focused on financial data workflow automation and logic implementation."
         highlights:
           - "Built and maintained automated data workflows for financial operations."
@@ -82,13 +82,13 @@ cv:
     Awards:
       - title: Best Paper Award - Artificial Intelligence Section
         authors: ""
-        date: "2023-12"
+        date: "2023.12"
         awarder: Korean Institute of Information Scientists and Engineers
         summary: ""
 
       - title: Presidential Award (National Information Society Agency)
         authors: ""
-        date: "2025-09"
+        date: "2025.09"
         awarder: "K-Data Science Hackathon, Ministry of Science and ICT"
         summary: ""
 
@@ -99,7 +99,7 @@ cv:
           - Young-Kyoon Suh
           - Jeeyoung Kim
         publisher: "Korea Software Congress, Korean Institute of Information Scientists and Engineers (Oral)"
-        releaseDate: "2023-12"
+        releaseDate: "2023.12"
         url: ""
         summary: "Best Paper Award, Artificial Intelligence Section"
 
@@ -108,7 +108,7 @@ cv:
           - Inyoung Park
           - Jeeyoung Kim
         publisher: "Journal of the Korea Academia-Industrial Cooperation Society"
-        releaseDate: "2024"
+        releaseDate: "2024.05"
         url: ""
         summary: ""
 
@@ -118,7 +118,7 @@ cv:
           - Young-Kyoon Suh
           - Jeeyoung Kim
         publisher: "Korea Computer Congress, Korean Institute of Information Scientists and Engineers (Oral)"
-        releaseDate: "2024-06"
+        releaseDate: "2024.06"
         url: ""
         summary: ""
 
@@ -128,7 +128,7 @@ cv:
           - Inyoung Park
           - Jeeyoung Kim
         publisher: "Korean Database Conference, Korean Institute of Information Scientists and Engineers (Oral)"
-        releaseDate: "2025-11"
+        releaseDate: "2025.11"
         url: ""
         summary: ""
 
@@ -138,7 +138,7 @@ cv:
           - Inyoung Park
           - Jeeyoung Kim
         publisher: "Korean Database Conference, Korean Institute of Information Scientists and Engineers (Oral)"
-        releaseDate: "2025-11"
+        releaseDate: "2025.11"
         url: ""
         summary: ""
 
@@ -148,7 +148,7 @@ cv:
           - Inyoung Park
           - Jeeyoung Kim
         publisher: "Korean Database Conference, Korean Institute of Information Scientists and Engineers (Oral)"
-        releaseDate: "2025-11"
+        releaseDate: "2025.11"
         url: ""
         summary: ""
 
@@ -177,42 +177,42 @@ cv:
         highlights:
           - "Demonstrated an AI-based photo generation system using DeepFace technology to map user facial features onto themed four-cut photo templates."
           - 'Designed an interactive experience that recommends Korea travel styles based on a survey-driven "travel MBTI".'
-        start_date: "2023-10"
-        end_date: "2024-01"
+        start_date: "2023.10"
+        end_date: "2024.01"
 
       - name: Development of computational technology for autonomous swarming communities between devices in residential environments
         summary: ""
         highlights:
           - Funded by NRF
-        start_date: "2023-04"
-        end_date: "2023-06"
+        start_date: "2023.04"
+        end_date: "2023.06"
 
       - name: Korea Data Science Consortium - Regional Innovation and Convergence Talent Development Program
         summary: ""
         highlights:
           - Supported by the Ministry of Science and ICT
-        start_date: "2023-11"
-        end_date: "2024-01"
+        start_date: "2023.11"
+        end_date: "2024.01"
 
       - name: Korea Data Science Consortium - Regional Innovation and Convergence Talent Development Program
         summary: ""
         highlights:
           - Supported by the Ministry of Science and ICT
-        start_date: "2025-03"
+        start_date: "2025.03"
         end_date: "Now"
 
       - name: Data-driven Intelligent Mobility Research Center
         summary: ""
         highlights:
           - Part of the ITRC program funded by IITP
-        start_date: "2025-03"
+        start_date: "2025.03"
         end_date: "Now"
 
       - name: GLOW-AI Education and Research Group for Cultivating Innovative Talent
         summary: ""
         highlights:
           - BK21 FOUR program
-        start_date: "2025-03"
+        start_date: "2025.03"
         end_date: "Now"
 
     References:
