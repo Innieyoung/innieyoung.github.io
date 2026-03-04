@@ -3,8 +3,8 @@ cv:
   label: Ph.D. Student
   email: innieyoung@knu.ac.kr
   location: Daegu, Republic of Korea
-  image: 
-  summary: An AI researcher driven to develop practical solutions that address complex problems in real production environments.
+  image: ""
+  summary: "An AI researcher driven to develop practical solutions that address complex problems in real production environments."
 
   social_networks:
     - network: Instagram
@@ -15,23 +15,23 @@ cv:
       username: innieyoung
 
   address:
-    street: #408-3, Joint Lecture Building 4, Kyungpook National University
+    street: "#408-3, Joint Lecture Building 4, Kyungpook National University"
     city: Buk-gu, Daegu
     region: South Korea
-    postalCode: 
-    countryCode: 
+    postalCode: ""
+    countryCode: ""
 
   sections:
     Education:
       - institution: Kyungpook National University
         location: Daegu, South Korea
-        url: 
+        url: ""
         area: Data Science Convergence
-        studyType: Ph. D. Degree
-        start_date: 2025
-        end_date: Now
-        score: 
-        courses: 
+        studyType: Ph.D. Degree
+        start_date: "2025"
+        end_date: "Now"
+        score: ""
+        courses: ""
         highlights:
           - Manufacturing AI
           - Anomaly Detection
@@ -39,185 +39,183 @@ cv:
 
       - institution: Kyungpook National University
         location: Daegu, South Korea
+        url: ""
         area: Data Science
-        studyType: M.S. of Data Science
-        start_date: 2022
-        end_date: 2024
+        studyType: M.S. in Data Science
+        start_date: "2022"
+        end_date: "2024"
         highlights:
           - Signal to Image Algorithms
           - Human-Centric AI
-          - AI in Healthcare 
+          - AI in Healthcare
 
       - institution: Kyungpook National University
         location: Daegu, South Korea
-        area: Electroncis&Software Engineering
-        studyType: B.S. in Electronics Engineering and Software Engineering (Minor)
-        start_date: 2018
-        end_date: 2022
-        highlights:
-      
+        url: ""
+        area: Electronics & Software Engineering
+        studyType: B.S. in Electronics Engineering (Minor in Software Engineering)
+        start_date: "2018"
+        end_date: "2022"
+        highlights: []
+
     Experience:
       - company: SK Siltron
         position: Data Scientist
         location: Gumi, Korea
-        start_date: 2024.11
-        end_date: 2025.02
-        summary: Handled manufacturing process data and yield management at SK siltron, conducting research on tool-to-tool matching.
+        start_date: "2024-11"
+        end_date: "2025-02"
+        summary: "Handled manufacturing process data and yield management at SK Siltron, conducting research on tool-to-tool matching."
         highlights:
-          - Developed an inline monitoring system for semiconductor manufacturing processes
-          - Built data-driven models for defect analysis and yield prediction.
+          - "Developed an inline monitoring system for semiconductor manufacturing processes."
+          - "Built data-driven models for defect analysis and yield prediction."
 
       - company: Toss Bank
         position: Research Intern
         location: Seoul, Korea
-        start_date: 2025.06
-        end_date: 2025.08
-        summary : Focusing on financial data workflow automation and logic implementation. 
+        start_date: "2025-06"
+        end_date: "2025-08"
+        summary: "Focused on financial data workflow automation and logic implementation."
         highlights:
-          - Built and maintained automated data workflows for financial operations.
-          - Transformed domain-specific financial logic into scalable and maintainable systems.
+          - "Built and maintained automated data workflows for financial operations."
+          - "Transformed domain-specific financial logic into scalable and maintainable systems."
 
     Awards:
       - title: Best Paper Award - Artificial Intelligence Section
-        authors: 
-        date: 2023. 12
+        authors: ""
+        date: "2023-12"
         awarder: Korean Institute of Information Scientists and Engineers
-        summary: 
+        summary: ""
 
-      - title: Award from the President of the National Information Society Agency 
-        authors: 
-        date: 2025. 09
-        awarder:  Ministry of Science and ICT
-        summary: K-Data Science Hackathon
+      - title: Presidential Award (National Information Society Agency)
+        authors: ""
+        date: "2025-09"
+        awarder: "K-Data Science Hackathon, Ministry of Science and ICT"
+        summary: ""
 
-  
     Publications:
       - title: Sleep Apnea Classification using Time-Series Data Image Transformation Algorithm
         authors:
           - Inyoung Park
           - Young-Kyoon Suh
           - Jeeyoung Kim
-        publisher: Korea Software Congress, Korean Institute of Information Scientists and Engineers (Oral)
-        releaseDate: 2023.12
-        url: 
+        publisher: "Korea Software Congress, Korean Institute of Information Scientists and Engineers (Oral)"
+        releaseDate: "2023-12"
+        url: ""
         summary: "Best Paper Award, Artificial Intelligence Section"
 
       - title: Semiconductor Wafer Bin Map Defect Pattern Classification based on Transfer Learning Considering Data Class Imbalance
         authors:
           - Inyoung Park
           - Jeeyoung Kim
-        publisher: Journal of the Korea Academia-Industrial Cooperation Society
-        releaseDate: 2024.05
-        url: 
-        summary: 
-    
+        publisher: "Journal of the Korea Academia-Industrial Cooperation Society"
+        releaseDate: "2024"
+        url: ""
+        summary: ""
+
       - title: Impact of Filter Order on the Performance of Sleep Apnea Detection Deep Learning Models on ECG Signals
         authors:
           - Inyoung Park
           - Young-Kyoon Suh
           - Jeeyoung Kim
-        publisher: Korea Computer Congress, Korean Institute of Information Scientists and Engineers (Oral)
-        releaseDate: 2024.06
-        url: 
-        summary: 
-    
+        publisher: "Korea Computer Congress, Korean Institute of Information Scientists and Engineers (Oral)"
+        releaseDate: "2024-06"
+        url: ""
+        summary: ""
+
       - title: Cross-Attention Learning of R-Peak Feature Interactions on Scalograms for Sleep Apnea Detection
         authors:
           - Cheongha Lee
           - Inyoung Park
           - Jeeyoung Kim
-        publisher: Korean Database Conference, Korean Institute of Information Scientists and Engineers (Oral)
-        releaseDate: 2025.11
-        url: 
-        summary: 
-    
+        publisher: "Korean Database Conference, Korean Institute of Information Scientists and Engineers (Oral)"
+        releaseDate: "2025-11"
+        url: ""
+        summary: ""
+
       - title: Graph-Spectral Filtering and QI Adaptive-ATAR Based EEG Preprocessing for ADHD Classification
         authors:
           - Jikyoung Hong
           - Inyoung Park
           - Jeeyoung Kim
-        publisher: Korean Database Conference, Korean Institute of Information Scientists and Engineers (Oral)
-        releaseDate: 2025.11
-        url: 
-        summary: 
-    
+        publisher: "Korean Database Conference, Korean Institute of Information Scientists and Engineers (Oral)"
+        releaseDate: "2025-11"
+        url: ""
+        summary: ""
+
       - title: ECG-Based Sleep Apnea Detection Using Hybrid DLinear Model
         authors:
           - Lakshani Liyanage
           - Inyoung Park
           - Jeeyoung Kim
-        publisher: Korean Database Conference, Korean Institute of Information Scientists and Engineers (Oral)
-        releaseDate: 2025.11
-        url: 
-        summary: 
+        publisher: "Korean Database Conference, Korean Institute of Information Scientists and Engineers (Oral)"
+        releaseDate: "2025-11"
+        url: ""
+        summary: ""
 
-       - title: A Human-in-the-Loop Methodology for Dynamic Class Expansion in Open-set Wafer Bin Map Classification
+      - title: A Human-in-the-Loop Methodology for Dynamic Class Expansion in Open-set Wafer Bin Map Classification
         authors:
           - Inyoung Park
           - Jeeyoung Kim
-        publisher: Journal of the Institute of Electroncis and Information Engineers (to appear)
-        releaseDate: 2026
-        url: 
-        summary:        
-        
+        publisher: "Journal of the Institute of Electronics and Information Engineers (to appear)"
+        releaseDate: "2026"
+        url: ""
+        summary: ""
+
     Languages:
       - name: Korean
         summary: Native speaker
-
       - name: English
         summary: Fluent
-
       - name: Chinese
         summary: Intermediate
-
       - name: Japanese
-        summary : Intermediate
-        
+        summary: Intermediate
+
     Projects:
-      - name : CES 2024 Exhibition
-        summary : Participated as an exhibitor presenting an AI-based system for real-world applications.
-        highlights : 
-         - Demonstrated an AI-based photo generation system using DeepFace technology to map user facial features onto themed four-cut photo templates.
-         - Designed an interactive experience that recommends Korea travel styles based on a survey-driven “travel MBTI”.
-        start_date : 2023.10
-        end_date : 2024.01
-        
+      - name: CES 2024 Exhibition
+        summary: "Participated as an exhibitor presenting an AI-based system for real-world applications."
+        highlights:
+          - "Demonstrated an AI-based photo generation system using DeepFace technology to map user facial features onto themed four-cut photo templates."
+          - 'Designed an interactive experience that recommends Korea travel styles based on a survey-driven "travel MBTI".'
+        start_date: "2023-10"
+        end_date: "2024-01"
+
       - name: Development of computational technology for autonomous swarming communities between devices in residential environments
-        summary: 
+        summary: ""
         highlights:
           - Funded by NRF
-        start_date: 2023.04
-        end_date: 2023.06
+        start_date: "2023-04"
+        end_date: "2023-06"
 
       - name: Korea Data Science Consortium - Regional Innovation and Convergence Talent Development Program
-        summary: 
+        summary: ""
         highlights:
-          - Supported by the Ministry of Science and ICT 
-        start_date: 2023.11
-        end_date: 2024.01
+          - Supported by the Ministry of Science and ICT
+        start_date: "2023-11"
+        end_date: "2024-01"
 
       - name: Korea Data Science Consortium - Regional Innovation and Convergence Talent Development Program
-        summary: 
+        summary: ""
         highlights:
-          - Supported by the Ministry of Science and ICT 
-        start_date: 2025.03
+          - Supported by the Ministry of Science and ICT
+        start_date: "2025-03"
         end_date: "Now"
 
       - name: Data-driven Intelligent Mobility Research Center
-        summary: 
+        summary: ""
         highlights:
           - Part of the ITRC program funded by IITP
-        start_date: 2025.03
+        start_date: "2025-03"
         end_date: "Now"
 
-      - name: ​GLOW-AI Education and Research Group for Cultivating Innovative Talent
-        summary: 
+      - name: GLOW-AI Education and Research Group for Cultivating Innovative Talent
+        summary: ""
         highlights:
           - BK21 FOUR program
-        start_date: 2025.03
+        start_date: "2025-03"
         end_date: "Now"
-        
+
     References:
       - name: Professor Jeeyoung Kim
         icon: fa-solid fa-thumbtack
-       reference: Professor Jeeyoung Kim is my academic advisor at Kyungpook National University. I have had the privilege of working with her since my master’s program, and her mentorship and passion for research greatly inspired me to pursue a Ph.D. Her research focuses on human-centric data analysis across domains such as healthcare, mobility, and network systems.
+        reference: "Professor Jeeyoung Kim is my academic advisor at Kyungpook National University. I have had the privilege of working with her since my master’s program, and her mentorship and passion for research greatly inspired me to pursue a Ph.D. Her research focuses on human-centric data analysis across domains such as healthcare, mobility, and network systems."
