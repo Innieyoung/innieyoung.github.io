@@ -27,11 +27,10 @@ latest_posts:
   limit: 3
 ---
 
-<!-- ✅ Research images row (왼쪽 영역에서 가로 정렬) -->
-<div style="display:flex; gap:18px; align-items:flex-start; margin:28px 0 18px 0; flex-wrap:wrap;">
-  <img src="/assets/img/HITL.png" style="width:32%; min-width:220px; height:auto; display:block; border-radius:10px;">
-  <img src="/assets/img/wafer_kci.jpg" style="width:32%; min-width:220px; height:auto; display:block; border-radius:10px;">
-  <img src="/assets/img/MoL2_archi-2_cropped_page-0001.jpg" style="width:32%; min-width:220px; height:auto; display:block; border-radius:10px;">
+<div style="margin:28px 0 18px 0;">
+  <img src="/assets/img/HITL.png" style="width:100%; height:auto; display:block; border-radius:10px; margin-bottom:18px;">
+  <img src="/assets/img/wafer_kci.jpg" style="width:100%; height:auto; display:block; border-radius:10px; margin-bottom:18px;">
+  <img src="/assets/img/MoL2_archi-2_cropped_page-0001.jpg" style="width:100%; height:auto; display:block; border-radius:10px;">
 </div>
 
 My research focuses on developing practical AI methods to solve real-world problems using data.  
