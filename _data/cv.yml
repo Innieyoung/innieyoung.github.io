@@ -29,7 +29,7 @@ cv:
         area: Data Science Convergence
         studyType: Ph. D. Degree
         start_date: 2025
-        end_date: 
+        end_date: Now
         score: 
         courses: 
         highlights:
@@ -160,13 +160,7 @@ cv:
         releaseDate: 2026
         url: 
         summary:        
-
-    #Skills:
-     # - name: Physics
-      #  level: Master
-       # icon: fa-solid fa-hashtag
-        # keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
+        
     Languages:
       - name: Korean
         summary: Native speaker
@@ -179,29 +173,15 @@ cv:
 
       - name: Japanese
         summary : Intermediate
-
-    #Interests:
-     # - name: Physics
-      #  icon: fa-solid fa-tag
-       # keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    #Certificates:
-     # - name: Machine Learning
-      #  date: 2018-01-01
-       # issuer: Stanford University
-        #icon: fa-solid fa-location-dot
-
-     # - name: Quantum Computing
-     #   date: 2018-01-01
-     #   issuer: Stanford University
-     #   icon: fa-solid fa-tag
-
-    #  - name: Quantum Information
-    #    date: 2018-01-01
-    #    issuer: Stanford University
-    #    icon: fa-solid fa-envelope
-
+        
     Projects:
+      - name : CES 2024 Exhibition
+        summary : Participated as an exhibitor presenting an AI-based system for real-world applications.
+        highlights : 
+         - Demonstrated an AI-based photo generation system using DeepFace technology to map user facial features onto themed four-cut photo templates.
+         - Designed an interactive experience that recommends Korea travel styles based on a survey-driven “travel MBTI”.
+        start_date : 2023.10
+        end_date : 2024.01
       - name: Development of computational technology for autonomous swarming communities between devices in residential environments
         summary: 
         highlights:
@@ -238,11 +218,8 @@ cv:
         end_date: Now
 
 
-    #References:
-    #  - name: Professor John Doe
-    #    icon: fa-solid fa-laptop
-    #    reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    References:
 
-    #  - name: Professor Jane Smith
-    #    icon: fa-solid fa-thumbtack
-    #    reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Professor Jeeyoung Kim
+        icon: fa-solid fa-thumbtack
+       reference: Professor Jeeyoung Kim is my academic advisor at Kyungpook National University. I have had the privilege of working with her since my master’s program, and her mentorship and passion for research greatly inspired me to pursue a Ph.D. Her research focuses on human-centric data analysis across domains such as healthcare, mobility, and network systems.
