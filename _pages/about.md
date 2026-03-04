@@ -8,6 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
+  image_width: 250
   more_info: |
     <p>#408-3, Joint Lecture Building 4</p>
     <p>Kyungpook National University, 80, Daehak-ro, Buk-gu</p>
