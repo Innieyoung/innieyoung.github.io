@@ -26,9 +26,7 @@ latest_posts:
   scrollable: true
   limit: 3
 ---
-
-My research focuses on developing practical AI methods to solve real-world problems using data.
-For more details about my background and experience, please refer to the CV above. 
+My research focuses on developing practical AI methods to solve real-world problems using data.  
+For more details about my background and experience, please refer to the [CV](/cv/) above.
 
 Feel free to contact me anytime. :)
-
