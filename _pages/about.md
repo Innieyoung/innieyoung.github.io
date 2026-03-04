@@ -28,6 +28,16 @@ latest_posts:
   limit: 3
 ---
 
+<!-- ✅ (optional but recommended) hard cap for profile image on mobile -->
+<style>
+  /* About profile image size control (prevents huge image on mobile) */
+  .profile img {
+    max-width: 250px !important;
+    width: 100%;
+    height: auto;
+  }
+</style>
+
 <div style="margin:28px 0 18px 0; max-width:500px;">
   <img src="/assets/img/HITL.png" style="width:100%; height:auto; display:block; border-radius:10px; margin-bottom:18px;">
   <img src="/assets/img/wafer_kci.jpg" style="width:100%; height:auto; display:block; border-radius:10px; margin-bottom:18px;">
@@ -37,6 +47,6 @@ latest_posts:
 My research focuses on developing practical AI methods to solve real-world problems using data.  
 For more details about my background and experience, please refer to the [CV](/cv/) above.
 
-<span style="background-color:var(--global-code-bg-color); color:var(--global-theme-color);">
+<span style="background-color:var(--global-code-bg-color); color:var(--global-theme-color); padding:4px 10px; border-radius:8px; display:inline-block;">
 Feel free to contact me anytime. :)
 </span>
