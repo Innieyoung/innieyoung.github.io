@@ -56,7 +56,6 @@ cv:
         end_date: 2022
         highlights:
       
-
     Experience:
       - company: SK Siltron
         position: Data Scientist
@@ -202,25 +201,23 @@ cv:
         highlights:
           - Supported by the Ministry of Science and ICT 
         start_date: 2025.03
-        end_date: Now
+        end_date: "Now"
 
       - name: Data-driven Intelligent Mobility Research Center
         summary: 
         highlights:
           - Part of the ITRC program funded by IITP
         start_date: 2025.03
-        end_date: Now
+        end_date: "Now"
 
       - name: ​GLOW-AI Education and Research Group for Cultivating Innovative Talent
         summary: 
         highlights:
           - BK21 FOUR program
         start_date: 2025.03
-        end_date: Now
-
-
+        end_date: "Now"
+        
     References:
-
       - name: Professor Jeeyoung Kim
         icon: fa-solid fa-thumbtack
        reference: Professor Jeeyoung Kim is my academic advisor at Kyungpook National University. I have had the privilege of working with her since my master’s program, and her mentorship and passion for research greatly inspired me to pursue a Ph.D. Her research focuses on human-centric data analysis across domains such as healthcare, mobility, and network systems.
