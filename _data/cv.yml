@@ -182,6 +182,7 @@ cv:
          - Designed an interactive experience that recommends Korea travel styles based on a survey-driven “travel MBTI”.
         start_date : 2023.10
         end_date : 2024.01
+        
       - name: Development of computational technology for autonomous swarming communities between devices in residential environments
         summary: 
         highlights:
