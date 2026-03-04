@@ -27,7 +27,7 @@ latest_posts:
   limit: 3
 ---
 <img src="/assets/img/wafer_kci.jpg" width="220">
-<img src="/assets/img/MoL2_archi-2_cropped" width="220">
+<img src="/assets/img/MoL2_archi-2_cropped_page-0001.jpg" width="220">
 
 My research focuses on developing practical AI methods to solve real-world problems using data.  
 For more details about my background and experience, please refer to the [CV](/cv/) above.
