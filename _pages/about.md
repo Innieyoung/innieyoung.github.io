@@ -8,12 +8,9 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  image_width: 250
-  more_info: |
-    <p>#408-3, Joint Lecture Building 4</p>
-    <p>Kyungpook National University, 80, Daehak-ro, Buk-gu</p>
-    <p>Daegu, Republic of Korea</p>
-
+  image_width: 200
+  more_info: 
+  
 selected_papers: false
 social: false
 
@@ -27,18 +24,29 @@ latest_posts:
   scrollable: true
   limit: 3
 ---
-
-<!-- ✅ (optional but recommended) hard cap for profile image on mobile -->
 <style>
-  /* About profile image size control (prevents huge image on mobile) */
-  .profile img {
-    max-width: 250px !important;
-    width: 100%;
-    height: auto;
+
+/* 프로필 사진 기본 크기 제한 */
+.profile img {
+  max-width: 240px !important;
+  width: 100%;
+  height: auto;
+}
+
+/* 모바일에서 프로필 중앙 정렬 */
+@media (max-width: 768px) {
+  .profile {
+    text-align: center !important;
   }
+  .profile img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+}
 </style>
 
-<div style="margin:28px 0 18px 0; max-width:500px;">
+<div style="margin:28px 0 18px 0; max-width:550px;">
   <img src="/assets/img/HITL.png" style="width:100%; height:auto; display:block; border-radius:10px; margin-bottom:18px;">
   <img src="/assets/img/wafer_kci.jpg" style="width:100%; height:auto; display:block; border-radius:10px; margin-bottom:18px;">
   <img src="/assets/img/MoL2_archi-2_cropped_page-0001.jpg" style="width:100%; height:auto; display:block; border-radius:10px;">
