@@ -172,7 +172,7 @@ cv:
         summary: Intermediate
 
     Projects:
-      - name: "CES 2024 Exhibition <span style='color:#7c3aed; font-weight:700;'>[2023.10 - 2024.01]</span> "
+      - name: "CES 2024 Exhibition <span style='color:var(--global-theme-color); font-weight:700;'>[2023.10 - 2024.01]</span>"
         summary: "Participated as an exhibitor presenting an AI-based system for real-world applications."
         highlights:
           - "Demonstrated an AI-based photo generation system using DeepFace technology to map user facial features onto themed four-cut photo templates."
@@ -180,35 +180,35 @@ cv:
         start_date: "2023.10"
         end_date: "2024.01"
 
-      - name: "Development of computational technology for autonomous swarming communities between devices in residential environments <span style='color:#7c3aed; font-weight:700;'>[2023.04 - 2023.06]</span> "
+      - name: "Development of computational technology for autonomous swarming communities between devices in residential environments <span style='color:var(--global-theme-color); font-weight:700;'>[2023.04 - 2023.06]</span>"
         summary: ""
         highlights:
           - Funded by NRF
         start_date: "2023.04"
         end_date: "2023.06"
 
-      - name: "Korea Data Science Consortium - Regional Innovation and Convergence Talent Development Program <span style='color:#7c3aed; font-weight:700;'>[2023.11 - 2024.01]</span> "
+      - name: "Korea Data Science Consortium - Regional Innovation and Convergence Talent Development Program <span style='color:var(--global-theme-color); font-weight:700;'>[2023.11 - 2024.01]</span>"
         summary: ""
         highlights:
           - Supported by the Ministry of Science and ICT
         start_date: "2023.11"
         end_date: "2024.01"
 
-      - name: "Korea Data Science Consortium - Regional Innovation and Convergence Talent Development Program <span style='color:#7c3aed; font-weight:700;'>[2025.03 - Now]</span> "
+      - name: "Korea Data Science Consortium - Regional Innovation and Convergence Talent Development Program <span style='color:var(--global-theme-color); font-weight:700;'>[2025.03 - Now]</span>"
         summary: ""
         highlights:
           - Supported by the Ministry of Science and ICT
         start_date: "2025.03"
         end_date: "Now"
 
-      - name: "Data-driven Intelligent Mobility Research Center <span style='color:#7c3aed; font-weight:700;'>[2025.03 - Now]</span> "
+      - name: "Data-driven Intelligent Mobility Research Center <span style='color:var(--global-theme-color); font-weight:700;'>[2025.03 - Now]</span>"
         summary: ""
         highlights:
           - Part of the ITRC program funded by IITP
         start_date: "2025.03"
         end_date: "Now"
 
-      - name: "GLOW-AI Education and Research Group for Cultivating Innovative Talent <span style='color:#7c3aed; font-weight:700;'>[2025.03 - Now]</span> "
+      - name: "GLOW-AI Education and Research Group for Cultivating Innovative Talent <span style='color:var(--global-theme-color); font-weight:700;'>[2025.03 - Now]</span>"
         summary: ""
         highlights:
           - BK21 FOUR program
@@ -216,6 +216,6 @@ cv:
         end_date: "Now"
 
     References:
-      - name: Professor <span style='color:#7c3aed; font-weight:700;'>Jeeyoung Kim</span> 
+      - name: "Professor <span style='color:var(--global-theme-color); font-weight:700;'>Jeeyoung Kim</span>"
         icon: fa-solid fa-thumbtack
         reference: "Professor Jeeyoung Kim is my academic advisor at Kyungpook National University. I have had the privilege of working with her since my master’s program, and her mentorship and passion for research greatly inspired me to pursue a Ph.D. Her research focuses on human-centric data analysis across domains such as healthcare, mobility, and network systems."
