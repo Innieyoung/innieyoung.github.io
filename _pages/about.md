@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "[Ph.D. Student] [Human-Centric Data Lab](https://hds.knu.ac.kr) at Kyungpook National University"
+subtitle: [Ph.D. Student] [Human-Centric Data Lab](https://hds.knu.ac.kr) at Kyungpook National University
 
 profile:
   align: right
