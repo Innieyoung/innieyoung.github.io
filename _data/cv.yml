@@ -216,6 +216,6 @@ cv:
         end_date: "Now"
 
     References:
-      - name: <span style='color:#7c3aed; font-weight:700;'>Professor Jeeyoung Kim</span> 
+      - name: Professor <span style='color:#7c3aed; font-weight:700;'>Jeeyoung Kim</span> 
         icon: fa-solid fa-thumbtack
         reference: "Professor Jeeyoung Kim is my academic advisor at Kyungpook National University. I have had the privilege of working with her since my master’s program, and her mentorship and passion for research greatly inspired me to pursue a Ph.D. Her research focuses on human-centric data analysis across domains such as healthcare, mobility, and network systems."
