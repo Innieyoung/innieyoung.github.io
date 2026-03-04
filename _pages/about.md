@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "[Ph.D. Student] [Human-Centric Data Lab](https://hds.knu.ac.kr) at Kyungpook National University"
+subtitle: "<span style='color:#7c3aed; font-weight:700;'>[Ph.D. Student]</span> <a href='https://hds.knu.ac.kr' style='color:#7c3aed; font-weight:700;'>Human-Centric Data Science Lab</a> at Kyungpook National University"
 
 profile:
   align: right
@@ -29,4 +29,6 @@ latest_posts:
 My research focuses on developing practical AI methods to solve real-world problems using data.  
 For more details about my background and experience, please refer to the [CV](/cv/) above.
 
-Feel free to contact me anytime. :)
+<span style="background-color:#ede9fe; color:#6d28d9; padding:4px 8px; border-radius:6px;">
+Feel free to contact me anytime.
+</span> :)
