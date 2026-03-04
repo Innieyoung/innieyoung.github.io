@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: [Ph.D. Studnet] [Human-Centric Data Lab](https://hds.knu.ac.kr) at Kyungpook National University
+subtitle: "[Ph.D. Student] [Human-Centric Data Lab](https://hds.knu.ac.kr) at Kyungpook National University"
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info: |
     <p>#408-3, Joint Lecture Building 4</p>
     <p>Kyungpook National University, 80, Daehak-ro, Buk-gu</p>
     <p>Daegu, Republic of Korea</p>
