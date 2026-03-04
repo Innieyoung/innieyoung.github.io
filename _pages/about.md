@@ -7,24 +7,24 @@ subtitle: "[Ph.D. Student] [Human-Centric Data Lab](https://hds.knu.ac.kr) at Ky
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: |
     <p>#408-3, Joint Lecture Building 4</p>
     <p>Kyungpook National University, 80, Daehak-ro, Buk-gu</p>
     <p>Daegu, Republic of Korea</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+selected_papers: false
+social: false
 
 announcements:
-  enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 3
 ---
 
 My research focuses on developing practical AI methods to solve real-world problems using data.
