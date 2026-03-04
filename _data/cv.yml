@@ -93,24 +93,24 @@ cv:
 
   
     Publications:
-      - title: Semiconductor Wafer Bin Map Defect Pattern Classification based on Transfer Learning Considering Data Class Imbalance
-        authors:
-          - Inyoung Park
-          - Jeeyoung Kim
-        publisher: Journal of the Korea Academia-Industrial Cooperation Society
-        releaseDate: 2024
-        url: 
-        summary: 
-    
       - title: Sleep Apnea Classification using Time-Series Data Image Transformation Algorithm
         authors:
           - Inyoung Park
           - Young-Kyoon Suh
           - Jeeyoung Kim
         publisher: Korea Software Congress, Korean Institute of Information Scientists and Engineers (Oral)
-        releaseDate: 2023-12
+        releaseDate: 2023.12
         url: 
         summary: "Best Paper Award, Artificial Intelligence Section"
+
+      - title: Semiconductor Wafer Bin Map Defect Pattern Classification based on Transfer Learning Considering Data Class Imbalance
+        authors:
+          - Inyoung Park
+          - Jeeyoung Kim
+        publisher: Journal of the Korea Academia-Industrial Cooperation Society
+        releaseDate: 2024.05
+        url: 
+        summary: 
     
       - title: Impact of Filter Order on the Performance of Sleep Apnea Detection Deep Learning Models on ECG Signals
         authors:
@@ -118,7 +118,7 @@ cv:
           - Young-Kyoon Suh
           - Jeeyoung Kim
         publisher: Korea Computer Congress, Korean Institute of Information Scientists and Engineers (Oral)
-        releaseDate: 2024-06
+        releaseDate: 2024.06
         url: 
         summary: 
     
@@ -128,7 +128,7 @@ cv:
           - Inyoung Park
           - Jeeyoung Kim
         publisher: Korean Database Conference, Korean Institute of Information Scientists and Engineers (Oral)
-        releaseDate: 2025-11
+        releaseDate: 2025.11
         url: 
         summary: 
     
@@ -138,7 +138,7 @@ cv:
           - Inyoung Park
           - Jeeyoung Kim
         publisher: Korean Database Conference, Korean Institute of Information Scientists and Engineers (Oral)
-        releaseDate: 2025-11
+        releaseDate: 2025.11
         url: 
         summary: 
     
@@ -148,15 +148,24 @@ cv:
           - Inyoung Park
           - Jeeyoung Kim
         publisher: Korean Database Conference, Korean Institute of Information Scientists and Engineers (Oral)
-        releaseDate: 2025-11
+        releaseDate: 2025.11
         url: 
         summary: 
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+       - title: A Human-in-the-Loop Methodology for Dynamic Class Expansion in Open-set Wafer Bin Map Classification
+        authors:
+          - Inyoung Park
+          - Jeeyoung Kim
+        publisher: Journal of the Institute of Electroncis and Information Engineers (to appear)
+        releaseDate: 2026
+        url: 
+        summary:        
+
+    #Skills:
+     # - name: Physics
+      #  level: Master
+       # icon: fa-solid fa-hashtag
+        # keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
       - name: Korean
@@ -171,41 +180,69 @@ cv:
       - name: Japanese
         summary : Intermediate
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    #Interests:
+     # - name: Physics
+      #  icon: fa-solid fa-tag
+       # keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+    #Certificates:
+     # - name: Machine Learning
+      #  date: 2018-01-01
+       # issuer: Stanford University
+        #icon: fa-solid fa-location-dot
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+     # - name: Quantum Computing
+     #   date: 2018-01-01
+     #   issuer: Stanford University
+     #   icon: fa-solid fa-tag
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+    #  - name: Quantum Information
+    #    date: 2018-01-01
+    #    issuer: Stanford University
+    #    icon: fa-solid fa-envelope
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: Development of computational technology for autonomous swarming communities between devices in residential environments
+        summary: 
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - Funded by NRF
+        start_date: 2023.04
+        end_date: 2023.06
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Korea Data Science Consortium - Regional Innovation and Convergence Talent Development Program
+        summary: 
+        highlights:
+          - Supported by the Ministry of Science and ICT 
+        start_date: 2023.11
+        end_date: 2024.01
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Korea Data Science Consortium - Regional Innovation and Convergence Talent Development Program
+        summary: 
+        highlights:
+          - Supported by the Ministry of Science and ICT 
+        start_date: 2025.03
+        end_date: Now
+
+      - name: Data-driven Intelligent Mobility Research Center
+        summary: 
+        highlights:
+          - Part of the ITRC program funded by IITP
+        start_date: 2025.03
+        end_date: Now
+
+      - name: ​GLOW-AI Education and Research Group for Cultivating Innovative Talent
+        summary: 
+        highlights:
+          - BK21 FOUR program
+        start_date: 2025.03
+        end_date: Now
+
+
+    #References:
+    #  - name: Professor John Doe
+    #    icon: fa-solid fa-laptop
+    #    reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+
+    #  - name: Professor Jane Smith
+    #    icon: fa-solid fa-thumbtack
+    #    reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
