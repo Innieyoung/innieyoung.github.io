@@ -172,7 +172,7 @@ cv:
         summary: Intermediate
 
     Projects:
-      - name: CES 2024 Exhibition
+      - name: "CES 2024 Exhibition [2023.10 - 2024.01]"
         summary: "Participated as an exhibitor presenting an AI-based system for real-world applications."
         highlights:
           - "Demonstrated an AI-based photo generation system using DeepFace technology to map user facial features onto themed four-cut photo templates."
@@ -180,35 +180,35 @@ cv:
         start_date: "2023.10"
         end_date: "2024.01"
 
-      - name: Development of computational technology for autonomous swarming communities between devices in residential environments
+      - name: "Development of computational technology for autonomous swarming communities between devices in residential environments [2023.04 - 2023.06]"
         summary: ""
         highlights:
           - Funded by NRF
         start_date: "2023.04"
         end_date: "2023.06"
 
-      - name: Korea Data Science Consortium - Regional Innovation and Convergence Talent Development Program
+      - name: "Korea Data Science Consortium - Regional Innovation and Convergence Talent Development Program [2023.11 - 2024.01]"
         summary: ""
         highlights:
           - Supported by the Ministry of Science and ICT
         start_date: "2023.11"
         end_date: "2024.01"
 
-      - name: Korea Data Science Consortium - Regional Innovation and Convergence Talent Development Program
+      - name: "Korea Data Science Consortium - Regional Innovation and Convergence Talent Development Program [2025.03 - Now]"
         summary: ""
         highlights:
           - Supported by the Ministry of Science and ICT
         start_date: "2025.03"
         end_date: "Now"
 
-      - name: Data-driven Intelligent Mobility Research Center
+      - name: "Data-driven Intelligent Mobility Research Center [2025.03 - Now]"
         summary: ""
         highlights:
           - Part of the ITRC program funded by IITP
         start_date: "2025.03"
         end_date: "Now"
 
-      - name: GLOW-AI Education and Research Group for Cultivating Innovative Talent
+      - name: "GLOW-AI Education and Research Group for Cultivating Innovative Talent [2025.03 - Now]"
         summary: ""
         highlights:
           - BK21 FOUR program
