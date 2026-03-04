@@ -30,5 +30,4 @@ My research focuses on developing practical AI methods to solve real-world probl
 For more details about my background and experience, please refer to the [CV](/cv/) above.
 
 <span style="background-color:#ede9fe; color:#6d28d9; padding:4px 8px; border-radius:6px;">
-Feel free to contact me anytime.
-</span> :)
+Feel free to contact me anytime. :) </span> 
