@@ -34,8 +34,8 @@ cv:
         courses: ""
         highlights:
           - Manufacturing AI
-          - Anomaly Detection
-          - Semi-Supervised Learning
+          - Reinforcement Learning
+          - Healthcare
 
       - institution: Kyungpook National University
         location: Daegu, South Korea
