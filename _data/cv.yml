@@ -28,8 +28,8 @@ cv:
         url: ""
         area: Data Science Convergence
         studyType: Ph.D. Degree
-        start_date: "2025"
-        end_date: "Now"
+        start_date: "Now"
+        end_date: 
         score: ""
         courses: ""
         highlights:
@@ -42,7 +42,7 @@ cv:
         url: ""
         area: Data Science
         studyType: M.S. in Data Science
-        start_date: "2022"
+        start_date: 
         end_date: "2024"
         highlights:
           - Signal to Image Algorithms
@@ -54,7 +54,7 @@ cv:
         url: ""
         area: Electronics & Software Engineering
         studyType: B.S. in Electronics Engineering (Minor in Software Engineering)
-        start_date: "2018"
+        start_date: 
         end_date: "2022"
         highlights: []
 
